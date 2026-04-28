@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049220849773",
+    "project_id": "fir-dee60",
+    "storage_bucket": "fir-dee60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049220849773:android:df465bc2b6dcb03b3c5f64",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0IMhNepnUG15P4hdd06qs8dM2P5fL_pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
